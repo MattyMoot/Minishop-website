@@ -8522,7 +8522,7 @@ h1, h2, h3, h4, h5,
     position: relative;
     height: 750px;
     z-index: 0;
-    background: #dbcc8f; }
+    background: #9bc3ff; }
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
       background-repeat: no-repeat;
@@ -9535,7 +9535,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #dbcc8f !important; }
+  background: #9bc3ff !important; }
 
 .bg-black {
   background: #000000 !important; }
